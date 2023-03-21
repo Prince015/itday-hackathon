@@ -1,6 +1,26 @@
-# Getting Started with Create React App
+# Shiksha Mitra App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To view our website [click here](https://itday-hackathon.vercel.app/)
+
+Our project is a comprehensive learning platform designed to enhance the educational experience for students.It aims to provide a personalized learning experience for every student.
+
+The platform is accessible to students of all ages from K-12 and from all educational backgrounds. It covers a wide range of subjects, from STEM to humanities.
+
+The platform also incorporates a competency-based learning system, which allows students to demonstrate their skills and knowledge in real-world situations, and receive feedback and recognition for their achievements.
+
+Our platform also provides access to a community of learners and educators, where students can collaborate with their peers and teachers to discuss and solve problems together.
+
+Overall, our platform is designed to provide a comprehensive, engaging, and personalized learning experience for students, to help them succeed academically and prepare for their future careers.
+
+We have divided our users into 3 types school, teacher and students.
+
+teacher has the ability to create exams, solve doubts, upload videos according to the classes and topics, take assesments.
+
+Students can view courses or study materials, ask doubts, learn skills to get jobs or internships. 
+
+And we have added daily good quote to keep them motivated.
+
+teacher or schools can organise exam or competitions and  take assesments classwise or for all students.
 
 ## Available Scripts
 
@@ -27,44 +47,3 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
