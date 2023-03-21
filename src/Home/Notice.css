@@ -1,0 +1,17 @@
+.noticeContainer{
+    animation: scroll linear 25s  3s infinite;
+    /* position: relative; */
+}
+
+.noticeContainer:hover{
+    animation-play-state: paused;
+}
+
+@keyframes scroll {
+    0%{
+        transform: translateY(0);
+    }
+    100%{
+        transform: translateY(-100%);
+    }
+}
